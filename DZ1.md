@@ -34,5 +34,6 @@
 
 Вставка картинки 
 
-image="C:\Users\Alexey\Desktop\Учеба Миша\Лекция по контролю версий\DZ\_116301648_gettyimages-1071204136.jpg"
+image src="C:\Users\Alexey\Desktop\Учеба Миша\Лекция по контролю версий\DZ\_116301648_gettyimages-1071204136.jpg"
 
+image src=https://scontent-waw1-1.xx.fbcdn.net/v/t1.6435-9/101696380_2440071736282978_7815613883304902656_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9267fe&_nc_ohc=ruYsENjLXOkAX9pcPzo&_nc_ht=scontent-waw1-1.xx&oh=00_AfDNYFpZ1zqLhuXjdENYJVrZAnxyvVm1zhxoZmJvoMwOzg&oe=63C95444
